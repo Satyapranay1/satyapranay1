@@ -23,10 +23,15 @@
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="https://leetcode.com/satya_pranay/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=leetcode" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
+       alt="LeetCode" height="40"/>
 </a>
+
 <a href="https://www.hackerrank.com/sudharanikotha79" target="_blank">
-  <img src="https://skillicons.dev/icons?i=hackerrank" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" 
+       alt="HackerRank" height="40"/>
+</a>
+
 </a>
 <a href="mailto:satyapranay114@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" height="40" />
